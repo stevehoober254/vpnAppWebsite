@@ -1,4 +1,4 @@
-name: Deplot to Prod
+name: Deploy to Prod
 'on':
   push:
     branches:
