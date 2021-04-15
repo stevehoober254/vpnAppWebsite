@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "vpn-website-dev-87fe5",
+    "prod": "vpn-website-prod-97016"
+  }
+}
